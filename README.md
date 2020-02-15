@@ -19,6 +19,6 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding
+  padding: 0;
 }
 ```
