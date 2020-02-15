@@ -10,3 +10,15 @@
 
 `index.html` file
 `main.css` file
+
+### important
+
+- have this below in your css file...
+
+```
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding
+}
+```
